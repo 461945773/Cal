@@ -5,7 +5,6 @@
 enum State {
 	digit,
 	cal,
-	brackets,
 	digitwihspace
 };
 class Calculator
